@@ -1,0 +1,10 @@
+git config - Configurar e-mail (Ex: git config --global user.email pedro_mb89@hotmail.com)
+git init - Criar novo repositório
+git status - Verificar status dos arquivos
+git add - Adicionar arquivos ao índice (Ex: git add teste.txt)
+git add . - Adicionar todos os arquivos ao índice 
+git commit - Confirmar alteraçoes do arquivo. (Ex: git commit -m "Criado cadastro de cliente")
+git push - Enviar alterações para a branch. (Ex: git push teste.txt)
+git branch - Consultar / criar novas branches. (Ex: git branch stating) *a branch sendo trabalhada vai estar sempre em *verde.
+git checkout - Navegar entre branches. (Ex: git checkout staging)
+
