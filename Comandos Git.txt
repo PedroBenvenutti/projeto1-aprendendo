@@ -7,4 +7,4 @@ git commit - Confirmar alteraçoes do arquivo. (Ex: git commit -m "Criado cadast
 git push - Enviar alterações para a branch. (Ex: git push teste.txt)
 git branch - Consultar / criar novas branches. (Ex: git branch stating) *a branch sendo trabalhada vai estar sempre em *verde.
 git checkout - Navegar entre branches. (Ex: git checkout staging)
-
+git pull - Mescla as alterações no GitHub para o Local.
